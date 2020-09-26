@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.genruntimeconfig.cache

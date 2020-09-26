@@ -1,0 +1,12 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\bin\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\SetsOfElements\obj\Debug\netcoreapp3.1\SetsOfElements.genruntimeconfig.cache

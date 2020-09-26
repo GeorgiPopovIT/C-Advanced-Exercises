@@ -1,0 +1,12 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.genruntimeconfig.cache
