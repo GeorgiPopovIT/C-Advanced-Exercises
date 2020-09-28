@@ -50,7 +50,6 @@ namespace Ranking
                         {
                             addCandidates[name].Add(contest, points);
                         }
-
                     }
                     else
                     {
