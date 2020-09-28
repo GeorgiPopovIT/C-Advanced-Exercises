@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\bin\Debug\netcoreapp3.1\TheV-Logger.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\TheV-Logger\obj\Debug\netcoreapp3.1\TheV-Logger.genruntimeconfig.cache

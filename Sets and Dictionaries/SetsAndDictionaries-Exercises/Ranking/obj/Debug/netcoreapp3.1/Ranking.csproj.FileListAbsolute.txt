@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\bin\Debug\netcoreapp3.1\Ranking.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\bin\Debug\netcoreapp3.1\Ranking.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\bin\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\bin\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\obj\Debug\netcoreapp3.1\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\obj\Debug\netcoreapp3.1\Ranking.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\obj\Debug\netcoreapp3.1\Ranking.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\obj\Debug\netcoreapp3.1\Ranking.genruntimeconfig.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Sets and Dictionaries\SetsAndDictionaries-Exercises\Ranking\obj\Debug\netcoreapp3.1\Ranking.csprojAssemblyReference.cache

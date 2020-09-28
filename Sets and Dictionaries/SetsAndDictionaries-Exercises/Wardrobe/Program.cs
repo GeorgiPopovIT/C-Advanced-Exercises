@@ -10,7 +10,7 @@ namespace Wardrobe
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            Dictionary<string, SortedDictionary<string, int>> dict = new Dictionary<string, SortedDictionary<string, int>>();
+            Dictionary<string, Dictionary<string, int>> dict = new Dictionary<string, Dictionary<string, int>>();
             for (int i = 0; i < n; i++)
             {
                 string currLine = Console.ReadLine();
@@ -20,7 +20,7 @@ namespace Wardrobe
                 string[] splittedClothes = splitted[1].Split(",");
                 if (!dict.ContainsKey(color))
                 {
-                    dict.Add(color, new SortedDictionary<string, int>());
+                    dict.Add(color, new Dictionary<string, int>());
                 }
                 foreach (var clothe in splittedClothes)
                 {
@@ -34,18 +34,12 @@ namespace Wardrobe
             string[] findClothes = Console.ReadLine().Split();
             string colorToFind = findClothes[0];
             string clotheToFind = findClothes[1];
-            string pieceOfClothing = string.Empty;
-            if (dict.ContainsKey(colorToFind) && dict[colorToFind].ContainsKey(clotheToFind))
-            {
-                pieceOfClothing = clotheToFind;
-            }
-
             foreach (var kvp in dict)
             {
                 Console.WriteLine($"{kvp.Key} clothes:");
                 foreach (var item in kvp.Value)
                 {
-                    if (item.Key == pieceOfClothing && kvp.Key == colorToFind)
+                    if (item.Key == clotheToFind && kvp.Key == colorToFind)
                     {
                         Console.WriteLine($"* {item.Key} - {item.Value} (found!)");
                     }
