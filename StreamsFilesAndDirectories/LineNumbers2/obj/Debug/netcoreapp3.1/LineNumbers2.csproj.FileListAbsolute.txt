@@ -1,0 +1,14 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\bin\Debug\netcoreapp3.1\LineNumbers2.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\bin\Debug\netcoreapp3.1\LineNumbers2.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\bin\Debug\netcoreapp3.1\LineNumbers2.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\bin\Debug\netcoreapp3.1\LineNumbers2.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\bin\Debug\netcoreapp3.1\LineNumbers2.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\bin\Debug\netcoreapp3.1\LineNumbers2.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\obj\Debug\netcoreapp3.1\LineNumbers2.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\obj\Debug\netcoreapp3.1\LineNumbers2.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\obj\Debug\netcoreapp3.1\LineNumbers2.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\obj\Debug\netcoreapp3.1\LineNumbers2.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\obj\Debug\netcoreapp3.1\LineNumbers2.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\obj\Debug\netcoreapp3.1\LineNumbers2.genruntimeconfig.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\LineNumbers2\obj\Debug\netcoreapp3.1\LineNumbers2.csprojAssemblyReference.cache

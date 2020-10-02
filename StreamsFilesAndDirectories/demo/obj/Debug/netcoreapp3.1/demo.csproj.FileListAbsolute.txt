@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\bin\Debug\netcoreapp3.1\demo.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\bin\Debug\netcoreapp3.1\demo.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\bin\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\obj\Debug\netcoreapp3.1\demo.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\obj\Debug\netcoreapp3.1\demo.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache

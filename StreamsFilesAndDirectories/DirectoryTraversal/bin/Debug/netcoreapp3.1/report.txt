@@ -1,0 +1,10 @@
+.txt
+--expectedResult.txt - 0kb
+--text.txt - 0kb
+--words.txt - 0kb
+.cs
+--Program.cs - 1kb
+.csproj
+--DirectoryTraversal.csproj - 0kb
+.png
+--copyMe.png - 9kb

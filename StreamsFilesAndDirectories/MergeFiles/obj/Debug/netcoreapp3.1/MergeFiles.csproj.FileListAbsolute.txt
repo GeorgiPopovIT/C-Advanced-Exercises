@@ -1,0 +1,16 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\Program.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.genruntimeconfig.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\obj\Debug\netcoreapp3.1\MergeFiles.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\input1.txt
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\MergeFiles\bin\Debug\netcoreapp3.1\input2.txt

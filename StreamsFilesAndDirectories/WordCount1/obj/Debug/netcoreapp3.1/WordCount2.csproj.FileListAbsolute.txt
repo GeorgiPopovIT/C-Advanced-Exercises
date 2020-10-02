@@ -1,0 +1,15 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\text.txt
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\WordCount2.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\WordCount2.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\WordCount2.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\WordCount2.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\WordCount2.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\WordCount2.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\obj\Debug\netcoreapp3.1\WordCount2.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\obj\Debug\netcoreapp3.1\WordCount2.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\obj\Debug\netcoreapp3.1\WordCount2.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\obj\Debug\netcoreapp3.1\WordCount2.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\obj\Debug\netcoreapp3.1\WordCount2.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\obj\Debug\netcoreapp3.1\WordCount2.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\obj\Debug\netcoreapp3.1\WordCount2.genruntimeconfig.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\WordCount1\bin\Debug\netcoreapp3.1\words.txt

@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\bin\Debug\netcoreapp3.1\SliceFile.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\bin\Debug\netcoreapp3.1\SliceFile.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\bin\Debug\netcoreapp3.1\SliceFile.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\bin\Debug\netcoreapp3.1\SliceFile.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\bin\Debug\netcoreapp3.1\SliceFile.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\bin\Debug\netcoreapp3.1\SliceFile.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\obj\Debug\netcoreapp3.1\SliceFile.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\obj\Debug\netcoreapp3.1\SliceFile.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\obj\Debug\netcoreapp3.1\SliceFile.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\obj\Debug\netcoreapp3.1\SliceFile.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\obj\Debug\netcoreapp3.1\SliceFile.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\obj\Debug\netcoreapp3.1\SliceFile.genruntimeconfig.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\StreamsFilesAndDirectories\SliceFile\obj\Debug\netcoreapp3.1\SliceFile.csprojAssemblyReference.cache
