@@ -21,12 +21,14 @@ namespace demo2
             {
                 Console.WriteLine($"{new string(' ', identetion)}{directories[i]}");
                 sum += GetDirectorySize(directories[i],identetion + 5);
+                //Directory.Delete(directories[i]);
             }
             for (int i = 0; i < files.Length; i++)
             {
                 FileInfo info = new FileInfo(files[i]);
                 Console.WriteLine($"{new string ('-',identetion)}{info.Name} --> {info.Length} bytes");
                 sum += info.Length;
+               // File.Delete(files[i]);
             }
             return sum;
         }
