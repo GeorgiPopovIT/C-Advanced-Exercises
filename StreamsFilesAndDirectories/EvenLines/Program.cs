@@ -16,7 +16,7 @@ namespace EvenLines
             while (!reader.EndOfStream)
             {
                 string line = reader.ReadLine();
-                
+
                 if (counter % 2 == 0)
                 {
                     for (int i = 0; i < line.Length; i++)
@@ -38,6 +38,5 @@ namespace EvenLines
                 counter++;
             }
         }
-       
     }
 }
