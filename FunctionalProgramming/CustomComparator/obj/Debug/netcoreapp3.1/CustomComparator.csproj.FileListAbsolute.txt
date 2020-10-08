@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.1\CustomComparator.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.genruntimeconfig.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.1\CustomComparator.csprojAssemblyReference.cache

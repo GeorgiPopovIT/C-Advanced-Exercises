@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\DefiningClasses\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache
