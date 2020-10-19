@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedListdDemo.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedListdDemo.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedListdDemo.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedListdDemo.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedListdDemo.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\bin\Debug\netcoreapp3.1\LinkedListdDemo.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedListdDemo.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedListdDemo.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedListdDemo.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedListdDemo.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedListdDemo.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedListdDemo.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\ImplementingLinkedList\LinkedList\obj\Debug\netcoreapp3.1\LinkedListdDemo.genruntimeconfig.cache

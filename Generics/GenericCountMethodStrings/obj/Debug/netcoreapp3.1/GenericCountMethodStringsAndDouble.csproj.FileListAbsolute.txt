@@ -1,0 +1,12 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\bin\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\Generics\GenericCountMethodStrings\obj\Debug\netcoreapp3.1\GenericCountMethodStringsAndDouble.genruntimeconfig.cache

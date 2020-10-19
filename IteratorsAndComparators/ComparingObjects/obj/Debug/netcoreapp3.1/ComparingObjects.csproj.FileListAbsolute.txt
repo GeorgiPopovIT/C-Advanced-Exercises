@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\IteratorsAndComparators\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.genruntimeconfig.cache
