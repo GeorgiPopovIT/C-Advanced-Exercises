@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\bin\Debug\netcoreapp3.1\SumOfCoins(Greedy).exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\bin\Debug\netcoreapp3.1\SumOfCoins(Greedy).deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\bin\Debug\netcoreapp3.1\SumOfCoins(Greedy).runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\bin\Debug\netcoreapp3.1\SumOfCoins(Greedy).runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\bin\Debug\netcoreapp3.1\SumOfCoins(Greedy).dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\bin\Debug\netcoreapp3.1\SumOfCoins(Greedy).pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\obj\Debug\netcoreapp3.1\SumOfCoins(Greedy).csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\obj\Debug\netcoreapp3.1\SumOfCoins(Greedy).AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\obj\Debug\netcoreapp3.1\SumOfCoins(Greedy).AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\obj\Debug\netcoreapp3.1\SumOfCoins(Greedy).csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\obj\Debug\netcoreapp3.1\SumOfCoins(Greedy).dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\obj\Debug\netcoreapp3.1\SumOfCoins(Greedy).pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SumOfCoins(Greedy)\obj\Debug\netcoreapp3.1\SumOfCoins(Greedy).genruntimeconfig.cache

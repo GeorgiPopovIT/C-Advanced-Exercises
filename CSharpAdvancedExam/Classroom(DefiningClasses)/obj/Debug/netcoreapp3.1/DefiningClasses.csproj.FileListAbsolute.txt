@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\bin\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\DefiningClasses\obj\Debug\netcoreapp3.1\DefiningClasses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\bin\Debug\netcoreapp3.1\RecursiveFactoriel.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\bin\Debug\netcoreapp3.1\RecursiveFactoriel.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\bin\Debug\netcoreapp3.1\RecursiveFactoriel.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\bin\Debug\netcoreapp3.1\RecursiveFactoriel.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\bin\Debug\netcoreapp3.1\RecursiveFactoriel.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\bin\Debug\netcoreapp3.1\RecursiveFactoriel.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\obj\Debug\netcoreapp3.1\RecursiveFactoriel.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\obj\Debug\netcoreapp3.1\RecursiveFactoriel.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\obj\Debug\netcoreapp3.1\RecursiveFactoriel.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\obj\Debug\netcoreapp3.1\RecursiveFactoriel.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\obj\Debug\netcoreapp3.1\RecursiveFactoriel.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\obj\Debug\netcoreapp3.1\RecursiveFactoriel.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\RecursiveFactoriel\obj\Debug\netcoreapp3.1\RecursiveFactoriel.genruntimeconfig.cache

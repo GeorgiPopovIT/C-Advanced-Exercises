@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\bin\Debug\netcoreapp3.1\SetCover.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\bin\Debug\netcoreapp3.1\SetCover.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\bin\Debug\netcoreapp3.1\SetCover.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\bin\Debug\netcoreapp3.1\SetCover.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\bin\Debug\netcoreapp3.1\SetCover.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\bin\Debug\netcoreapp3.1\SetCover.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\obj\Debug\netcoreapp3.1\SetCover.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\obj\Debug\netcoreapp3.1\SetCover.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\obj\Debug\netcoreapp3.1\SetCover.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\obj\Debug\netcoreapp3.1\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\obj\Debug\netcoreapp3.1\SetCover.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\obj\Debug\netcoreapp3.1\SetCover.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\AlgorithmsIntroduction\SetCover\obj\Debug\netcoreapp3.1\SetCover.genruntimeconfig.cache

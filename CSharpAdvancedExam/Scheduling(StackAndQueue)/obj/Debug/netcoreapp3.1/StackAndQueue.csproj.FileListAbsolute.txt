@@ -1,0 +1,13 @@
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.exe
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.deps.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.dev.json
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csprojAssemblyReference.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfo.cs
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\Georges\Desktop\C-Advanced-Exercises\CSharpAdvancedExam\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.genruntimeconfig.cache
